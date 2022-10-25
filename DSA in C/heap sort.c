@@ -92,5 +92,3 @@ int main()
 	printf("Sorted array is\n");
 	printArray(arr, N);
 }
-
-// This code is contributed by _i_plus_plus_.
